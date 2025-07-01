@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# Virtual Environment
+venv/
+email_auto/
+
+# Credentials
+token.json
+credentials.json
+last_processed.txt
+
+# VSCode settings (if used)
+.vscode/
