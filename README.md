@@ -21,6 +21,6 @@ This project automatically reads unread Gmail messages and generates smart repli
 
 ## 📸 Screenshots
 
-### 🔹 Terminal Running the Bot
+### 🔹 Terminal Output
 ![Terminal Output](Screenshots/terminal-output.png)
 >>>>>>> 10e7cf93ef1a27f5ae303a395305b83b310d05a0
