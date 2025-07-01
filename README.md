@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/email-auto-reply-bot)
+
 # Email Auto-Reply Bot (Gmail + AI)
 
 This project automatically reads unread Gmail messages and generates smart replies using Cohere AI.
@@ -16,3 +18,9 @@ This project automatically reads unread Gmail messages and generates smart repli
 ## Requirements
 - Python 3.8+
 - `pip install -r requirements.txt`
+
+## 📸 Screenshots
+
+### 🔹 Terminal Running the Bot
+![Terminal Output](Screenshots/terminal-output.png)
+>>>>>>> 10e7cf93ef1a27f5ae303a395305b83b310d05a0
